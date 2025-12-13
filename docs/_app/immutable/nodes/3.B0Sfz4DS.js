@@ -1,0 +1,1 @@
+import{f as r,a as o}from"../chunks/Dm4Vb-s-.js";import"../chunks/CyjuDewM.js";import{n as e}from"../chunks/C-XnomBm.js";var t=r('<h1>これは別のページです</h1> <p><a href="/">元のページに戻る</a></p> <p><a href="/page2/page3">さらに別のページに進む</a></p>',1);function h(a){var p=t();e(4),o(a,p)}export{h as component};
