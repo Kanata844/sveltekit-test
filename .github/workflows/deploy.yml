@@ -1,4 +1,4 @@
-Static site generation • Docs • Svelte https://share.google/WRwOmZVCeYmQJE2jname: Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
